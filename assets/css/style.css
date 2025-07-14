@@ -110,6 +110,7 @@ h2 {
 }
 
 #contact .table-dark * {
+    /* star override the bootstrap */
     background-color: transparent;
 }
 
